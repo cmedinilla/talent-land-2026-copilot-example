@@ -97,7 +97,7 @@ export default function Landing() {
               Welcome Back, Dr. Aris
             </span>
             <h1 className="font-headline text-5xl md:text-7xl font-bold text-on-surface tracking-tighter leading-none neon-glow">
-              My <span className="text-primary">Talks</span>
+              Mis <span className="text-primary">Ponencias</span>
             </h1>
             <p className="mt-6 text-on-surface-variant max-w-xl text-lg leading-relaxed">
               Managing your sessions for the world's largest innovation
